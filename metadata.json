@@ -1,0 +1,5 @@
+{
+  "name": "Xunfeng Dashboard (Go)",
+  "description": "Go-Xunfeng 漏洞扫描器的现代化响应式前端面板。具备实时任务管理、漏洞分析以及基于 Gemini AI 的智能修复建议功能。",
+  "requestFramePermissions": []
+}
